@@ -17,3 +17,5 @@ All finetuned HF models available at: https://huggingface.co/collij22
 Example1 - BioMistral-7B Sequence Classification model finetuned on ADE corpus: collij22/seq-adesplit_FT_BioMistral-7B
 
 Example2 - BioMedGPT-LM-7B Causal LM finetuned on PsyTAR corpus: collij22/jcpsytar_FT_BioMedGPT-LM-7B 
+
+Example 3 - BioLinkBERT-base NER Token classification model finetuned on CADEC corpus: collij22/ner_preprocessed_cadec_michiyasunaga_BioLinkBERT-base_2.0
